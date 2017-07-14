@@ -6,10 +6,10 @@
 ## *Fri 14 Jul* 
 
 ### **1. Commit the initial version**
-***./0-OVERVIEW*** : whose type is review
-***./1.0-CS RELATED*** : whose method is computational-related
-***./1.1*** : most of which are from [nature.com](https://www.nature.com/search?q=single-cell%20RNA)
-***./提案.pdf***
+- ***./0-OVERVIEW*** : whose type is review
+- ***./1.0-CS RELATED*** : whose method is computational-related
+- ***./1.1*** : most of which are from [nature.com](https://www.nature.com/search?q=single-cell%20RNA)
+- ***./提案.pdf***
 
 ### **2. Plan & Schedule**
 ***./0-OVERVIEW/plan***
