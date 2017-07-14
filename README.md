@@ -1,7 +1,5 @@
 # Daily Log
 
-标签（空格分隔）： single-cell RNA paper
-
 ---
 
 ## Fri 14 Jul ##
