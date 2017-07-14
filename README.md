@@ -1,5 +1,6 @@
 [TOC]
 # Daily Log
+[TOC]
 
 ## Contents
 
