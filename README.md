@@ -1,7 +1,7 @@
+[TOC]
 # Daily Log
 
 ## Contents
-[TOC]
 
 ## *Fri 14 Jul* 
 
