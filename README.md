@@ -1,4 +1,3 @@
-[TOC]
 # Daily Log
 [TOC]
 
@@ -13,11 +12,11 @@
 - ***./提案.pdf***
 
 ### **2. Plan & Schedule**
-***./0-OVERVIEW/plan***
+- ***./0-OVERVIEW/plan***
 Two papers are as follows.
     -> [Single-cell sequencing and tumorigenesis: improved understanding of tumor evolution and metastasis](https://link.springer.com/article/10.1186/s40169-017-0145-6)
     -> [Design and computational analysis of single-cell RNA-sequencing experiments](https://link.springer.com/article/10.1186/s13059-016-0927-y)
-***./1.0-CS RELATED/plan***
+- ***./1.0-CS RELATED/plan***
 There papers are as follows.
     -> [DTWscore: differential expression and cell clustering analysis for time-series single-cell RNA-seq data](https://link.springer.com/article/10.1186/s12859-017-1647-3)
     -> [Removal of batch effects using distribution-matching residual networks](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btx196)
